@@ -2,7 +2,7 @@
 
 ## Característica
 
-* Desenvolvido durante o curso de React Native na DIO.
+* Desenvolvido para o desafio da Formação React Native Developer na DIO.
   
 ## Tecnologias
 Este projeto foi desenvolvido com as seguintes tecnologias:
@@ -27,6 +27,3 @@ Rodar o script
 $ npm run start
 
 ```
-
-
-Executa o aplicativo no modo de desenvolvimento.
